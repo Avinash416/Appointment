@@ -1,0 +1,32 @@
+.text-color {
+    color: rgb(1, 144, 253) !important;
+}
+
+.table-heading {
+    font-size: large;
+    font-weight: 500;
+}
+
+.headingStyle {
+    display: flex;
+    align-self: start !important;
+    margin-bottom: 4% !important;
+  }
+
+.main-heading {
+    text-decoration: underline;
+    font-weight: 800 !important;
+    font-size: x-large !important;
+    
+}
+
+.heading {
+    text-decoration: underline;
+    font-weight: 600 !important;
+    font-size: large !important;
+}
+
+.footer-style {
+    font-weight: 500 !important;
+    font-size: medium !important;
+}
